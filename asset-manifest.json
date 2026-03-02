@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-business-run/static/css/main.417b1b95.css",
+    "main.js": "/test-business-run/static/js/main.62a1a447.js",
+    "index.html": "/test-business-run/index.html",
+    "main.417b1b95.css.map": "/test-business-run/static/css/main.417b1b95.css.map",
+    "main.62a1a447.js.map": "/test-business-run/static/js/main.62a1a447.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.417b1b95.css",
+    "static/js/main.62a1a447.js"
+  ]
+}
